@@ -7,6 +7,14 @@ https://pan.baidu.com/s/1ymWkfnGDB_wIPjsWjd7VdQ?pwd=ctx9
 
 thanks https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/ for original data.
 
+## Baic Information
+- **Raw Data**
+
+   |Data|Source|Band|Polarization|Resolution|
+   | --- | --- | --- | --- | --- |
+   |FARAD|Sandia National Laboratory|Ka/X|VV/HH|0.1m×0.1m|
+   |MiniSAR|Sandia National Laboratory|Ku|-|0.1m×0.1m|
+
 SIVED Dataset:
 thanks https://github.com/CAESAR-Radi/SIVED
 
